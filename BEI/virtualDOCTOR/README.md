@@ -1,10 +1,9 @@
 # Virtual Doctor in C
 ## Team Members:
-
-1. **BHAGWATI PRASAD THAKUR BEI080010**
-2.  **AADARSHA BHUSAL       BEI080001**
-3.  **DHANJIT KUMAR MAHATO  BEI080016**
-4.  **SACHIN LUITEL         BEI0800XX**
+1. **BHAGWATI PRASAD THAKUR**
+2.  **AADARSHA BHUSAL**
+3.  **DHANJIT KUMAR MAHATO**
+4.  **SACHIN LUITEL**
 ## Overview
 Virtual Doctor is a sophisticated diagnostic software developed in C that leverages medical data to diagnose illnesses, recommend treatments, generates report file and, if necessary, establish a connection with a physical doctor for further evaluation.
 ## Features
